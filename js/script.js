@@ -33,7 +33,7 @@ function largestProductinaSeries(n) {
         product *= thousandDigits[i];
       }
       max = Math.max(max,product);
-      len += 1;
+      len++;
     }
     return max;
   }
