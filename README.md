@@ -54,6 +54,31 @@ As a user, I expect the function `largestProductinaSeries(13)` to return 2351462
 
 The function `largestProductinaSeries(n)` returns a number, where `n` is a number between 4 and 20.
 
+## Features
 
+Allows the user to enter a number (number of adjacent digits) as well as the largest product.  Performs checks to ensure that the input is valid.  If the input is not valid, an error message is displayed.
+
+## Technologies
+
+Uses HTML5, CSS3, JavaScript, Bootstrap 5.1.3 and Google Fonts.
+
+## Testing
+
+Ensure all user stories have been met.
+
+## Deployment
+
+Deployed on [GitHub Pages](https://derektypist.github.io/project-euler-008) at the main branch.
+
+## Credits
+
+### Content
+
+Array of 1000 digits supplied by FreeCodeCamp.
+
+### Acknowledgements
+
+- [Project Euler](https://projecteuler.net)
+- [FreeCodeCamp](https://www.freecodecamp.org)
 
 
