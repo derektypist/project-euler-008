@@ -33,7 +33,7 @@ Information at [Project Euler 008](https://projecteuler.net/problem=8)
 
 **Getting Started**
 
-Enter a whole number between 4 and 20 in the input field and click on the Submit Button.  You will see the number you have entered as well as the value of the largest product, unless you have made an invalid input.  For example, if you entered 13, the value of the largest product is 23514624000.  Click on the Reset Button to clear that information or to start again.
+Enter a whole number between 4 and 20 in the input field and click on the Submit Button.  You will see the number you have entered as well as the value of the largest product, unless you have made an invalid input.  For example, if you entered 13, the value of the largest product is 23514624000.  Click on the Reset Button to clear that information or to start again.  The 1000-digit number is on a separate page.
 
 **User Stories**
 
