@@ -25,9 +25,15 @@ The four adjacent digits in the 1000-digit number that have the greatest product
     05886116467109405077541002256983155200055935729725
     71636269561882670428252483600823257530420752963450
 
-Find the n adjacent digits (e.g. 13) in the 1000-digit number that have the greatest product.
+Find the n adjacent digits (e.g. 13) in the 1000-digit number that have the greatest product.  What is the value of this product?
 
+Information at [Project Euler 008](https://projecteuler.net/problem=8)
 
+## UX
+
+**Getting Started**
+
+Enter a whole number between 12 and 20 in the input field and click on the Submit Button.  You will see the number you have entered as well as the largest product 
 
 
 
