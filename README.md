@@ -33,7 +33,26 @@ Information at [Project Euler 008](https://projecteuler.net/problem=8)
 
 **Getting Started**
 
-Enter a whole number between 12 and 20 in the input field and click on the Submit Button.  You will see the number you have entered as well as the largest product 
+Enter a whole number between 4 and 20 in the input field and click on the Submit Button.  You will see the number you have entered as well as the value of the largest product, unless you have made an invalid input.  For example, if you entered 13, the value of the largest product is 23514624000.  Click on the Reset Button to clear that information or to start again.
+
+**User Stories**
+
+As a user, I expect to get an error message if I do any of:
+
+    - Not enter anything in the input field
+    - Entering a number less than 4 or greater than 20
+    - Entering text that is not a number (e.g. bus)
+    - Entering a number, but it is not an integer
+
+As a user, I expect the function `largestProductinaSeries(4)` to return a number.
+
+As a user, I expect the function `largestProductinaSeries(4)` to return 5832.
+
+As a user, I expect the function `largestProductinaSeries(13)` to return 23514624000.
+
+**Information Architecture**
+
+The function `largestProductinaSeries(n)` returns a number, where `n` is a number between 4 and 20.
 
 
 
