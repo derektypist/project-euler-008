@@ -18,7 +18,8 @@ function getNumberInfo() {
 
 /*
     Function to Return the Largest Product in a Series
-
+    largestProductinaSeries(4) returns 5832
+    largestProductinaSeries(13) returns 23514624000
 */
 function largestProductinaSeries(n) {
 
